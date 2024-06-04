@@ -1,2 +1,2 @@
 #!/bin/sh
-banne -w 30 agu
+banner -w 30 agu
